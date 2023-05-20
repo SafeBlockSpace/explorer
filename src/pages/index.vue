@@ -32,7 +32,6 @@ const chains = computed(() => {
       <div class="w-8 md:!w-16 rounded-full mr-3">
         <img src="/safeblock.png" />
       </div>
-      <br>
       <h1 class="text-primary text-3xl md:!text-6xl font-bold mr-2">
         Safe Block Dashboard
       </h1>
